@@ -8,10 +8,13 @@ To write a program to implement the the Logistic Regression Model to Predict the
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1.x is the feature matrix, and y is the target variable
+
+2.train_test_split splits the data.
+
+3.LogisticRegression builds the model.
+
+4.accuracy_score evaluates performance.
 
 ## Program:
 ```
